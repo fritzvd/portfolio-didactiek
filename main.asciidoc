@@ -1,0 +1,89 @@
+[[introductie]]
+Introductie
+-----------
+
+Dit is een portfolio van mij, Fritz van Deventer, geschreven voor de
+cursus: _HBO didactiek_ die wordt gegeven vanuit het HAN VDO instituut
+van de Hogeschool Arnhem en Nijmegen (HAN). In dit portfolio komen er in
+het kort een aantal dingen langs die een beeld geven van wat er geleerd
+is.
+
+De cursus wordt gegeven aan de hand van 5 onderwerpen: Didactisch
+creëren, Begeleiden, Ontwerpen, Beoordelen en _Reflective Practicioner_.
+Voor elk van de eerste vier onderwerpen is er een leerdoel geformuleerd
+in het gedeelte . In het gedeelte blik ik terug op de leerdoelen en
+beschrijf ik hoe ik aan de leerdoelen heb gewerkt, en in hoeverre ik
+vind dat deze behaald zijn of niet.
+
+Het laatste onderdeel staat gedeeltelijk los van het verslag. Dat is het
+gedeelte . Dit is een onderzoek vanuit de onderwijspraktijk,
+gebruikmakende van kennis van collega’s en gesprekken met studenten. Het
+onderzoek draait om een vraag die ik het liefst beantwoord zie voor mijn
+dagelijkse beroepspraktijk namelijk: ``Wat voor activerende werkvormen
+passen goed bij het Informatica onderwijs?''.
+
+[[sec:pop]]
+Persoonlijk Ontwikkelingsplan
+-----------------------------
+
+Om tot een goed leerdoel te komen, heb ik gebruik gemaakt van een SWOT
+matrix, waarin ik Strengths (S), Weaknesses (W), Opportunities(O) en
+Threats(T) heb ingedeeld op behulpzaam (SO) en schadelijk (WT) en intern
+(SW) en extern (OT). Met intern bedoel ik de dingen in mij zelf, waar ik
+zelf invloed op kan uitoefenen en met extern de dingen die vanuit
+anderen komen en waar ik minder invloed op kan uitoefenen. De analyse is
+opgebouwd uit feedback die ik heb gekregen van anderen en dingen die ik
+van mijzelf weet. Voor elk van de verschillende deelgebieden (didactiek,
+begeleiden, ontwerpen, beoordelen) zal ik dit uitwerken.
+
+[[swot-analyse]]
+SWOT analyse
+~~~~~~~~~~~~
+
+.SWOT analyse. Met de klok mee: S, W, T, O.
+[cols="<,<,<",options="header",]
+|=======================================================================
+| |behulpzaam |schadelijk
+|intern |Tijdens mijn lessen gebruik ik veel voorbeelden en metaforen
+die mijn lessen kleur geven en de lesstof van een andere kant belichten.
+Als ik voor de klas sta kom ik zeker over. Door middel van vragen
+positief te verwelkomen verlaag ik de drempel voor anderen om vragen te
+stellen. Ik heb een heldere en duidelijke stem die ik goed inzet.
+|Doordat ik hardop nadenk, verwar of verstoor ben ik soms erg druk of
+geef ik studenten te weinig tijd om over dingen na te denken. Ik ga vaak
+te snel, en verwoord vaak niet het proces wat zich in mijn hoofd
+afspeelt, waardoor dingen onduidelijk of chaotisch overkomen. Doordat ik
+zelf snel leer, geef ik niet genoeg ruimte voor leerstijlen die afwijken
+van de mijne.
+
+|extern |Over het algemeen is er genoeg tijd om lessen voor te bereiden,
+waarmee er ook een diversiteit in werkvormen valt te onderzoeken. De
+lessen zijn allemaal lang (3 uur), hierin is genoeg tijd om context te
+geven rond een thema, een werkvorm te doen en daarop te reflecteren
+tijdens de les. |Iedereen zit in de les met een laptop voor hun neus, de
+kans tot afleiding is en de kans dat dingen mij ontgaan die de klas
+bezighouden zijn groot.
+|=======================================================================
+
+[[didactiek]]
+Didactiek
+---------
+
+Voor de komende 3 lessen wil ik per les twee verschillende werkvormen
+aanbieden die passen bij verschillende leerstijlen. Hiermee dwing ik
+mijzelf tot het voorbereiden van een les, en hoop ik in de les zelf tot
+meer diepgang te kunnen komen.
+
+[[leerstijlen-vs-doceerstijlen]]
+Leerstijlen vs Doceerstijlen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[[sec:zelfevaluatie]]
+Zelfevaluatie
+-------------
+
+[[sec:RP]]
+Reflective Practicioner
+-----------------------
+
+Bla bla

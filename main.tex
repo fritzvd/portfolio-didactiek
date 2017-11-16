@@ -1,0 +1,64 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[sc]{mathpazo}
+\usepackage[dutch]{babel}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{pdfpages}
+\usepackage[titletoc]{appendix}
+
+\topmargin=-0.45in
+\evensidemargin=0in
+\oddsidemargin=0in
+\textwidth=6.5in
+\textheight=9.0in
+\headsep=0.25in 
+
+
+\usepackage{apacite}
+\bibliographystyle{apacite}
+
+
+\title{Portfolio Didactiek}
+\author{Fritz van Deventer}
+\date{\today}
+ 
+\begin{document}
+ 
+\maketitle
+
+\begin{quote}
+  "Maar de boeken spraken met de stem van leraren, of de leraren spraken met de stem van boeken, dat was niet altijd duidelijk. Ze leerden me vaardigheden, maar gaven geen antwoorden."
+  \begin{flushright}
+    \textit{ - Tommy Wieringa\nocite{speedboot}}
+  \end{flushright}
+\end{quote}
+
+\tableofcontents
+\input{document/inleiding}
+\input{document/didactiek}
+\input{document/begeleiden}
+\input{document/ontwerpen}
+\input{document/toetsen}
+\input{document/rp}
+
+
+\bibliography{portfolio.bib}
+\clearpage
+\begin{appendices}
+
+\input{document/bijlage/lesdemo}
+\input{document/bijlage/lesbezoek}
+\input{document/bijlage/lesbezoekcollega}
+
+\input{document/bijlage/groepsbegeleiding}
+\input{document/bijlage/individuelebegeleiding}
+
+\input{document/bijlage/vragenlijsten}
+
+
+\includepdf[pages=-,pagecommand={\addcontentsline{toc}{section}{\protect\numberline{F}OWE voor vak SPD}\label{sec:owespd}}, fitpaper=true]{OWE-SPD.pdf}
+
+\end{appendices}
+
+\end{document}
