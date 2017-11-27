@@ -78,8 +78,8 @@ meer diepgang te kunnen komen.
 Leerstijlen vs Doceerstijlen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-[[sec:zelfevaluatie]]
-Zelfevaluatie
+[[sec:Zelfreflectie]]
+Zelfreflectie
 -------------
 
 [[sec:RP]]

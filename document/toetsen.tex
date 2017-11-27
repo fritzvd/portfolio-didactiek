@@ -1,14 +1,52 @@
 \section{Toetsen}
 
 \subsection{Persoonlijk Ontwikkelingsplan}
-Voor het onderdeel toetsen wil ik voortboorduren op het ontwerpen. Hetzelfde vak SPD heeft een aantal schriftelijke toetsen die ik zou willen beoordelen op een aantal criteria zoals die in de theorie beschreven worden.
-
-Het betreft een openvragen toetsen waar de toets niet alleen maar reproductief van aard is maar vraagt om creatieve oplossingen van de student die dichtbij de beroepspraktijk ligt.
+Voor het onderdeel toetsen wil ik kijken naar het rubrics model voor beoordelen. Om aan te tonen dat ik dit beheers heb ik een bestaand beoordelingsmodel van een product uit het vak \textit{Developing Hybrid Applications} uitgebreid naar een model met rubrics. Dit hebben we gedaan om de toets makkelijker te beoordelen alsmede het voor de student inzichtelijker te maken.
 
 Het leerdoel wat ik hierbij heb geformuleerd is als volgt:
 \begin{quote}
-  \textit{Ik zou graag willen leren hoe een toets te beoordelen valt op complexiteit en juistheid.}
+ \textit{Ik zou graag rubrics willen leren toepassen op een bestaand beoordelingsmodel}
 \end{quote}
-Dit ga ik dan doen door de toets per vraag door te nemen en aan de hand van de criteria zoals die geformuleerd staan in de Syllabus Toetsen en Beoordelen van de HAN \cite{syllabushan}
+Voor de grondigheid zal ik deze rubrics ook in mijn Zelfreflectie bekijken aan de hand van de criteria zoals die geformuleerd staan in de Syllabus Toetsen en Beoordelen van de HAN \cite{syllabushan}.
 
-\subsection{Zelfevaluatie}
+\subsection{Beoordelingsmodel naar Rubrics}
+\subsubsection{Context}
+Het beoordelingsformulier wat ik hier beschrijf is de applicatie die ze aan het eind van het vak moeten maken om hun beheersing van de stof aan te tonen.
+De beroepstaak volgens de OWE van DHA luidt als volgt: ``Ontwikkel de userinterface en applicatiestructuur voor een hybride app die werkt op mobiele apparaten met diverse besturingssysteem.'' De eindapplicatie zou hier ook aan moeten voldoen.
+
+Het beoordelingsformulier bleek problematisch tijdens het beoordelen, omdat de student volgens het model kon voldoen aan een eis, zonder enige verdieping te laten zien in het kennen en kunnen. Om daar iets meer grip op te krijgen en het beoordelen ook transparanter te maken voor de studenten hebben we deze in een rubrics gegoten. Rubrics zijn namelijk makkelijk te gebruiken en uit te leggen \cite{andrade1997understanding}. Bovendien worden de verwachtingen vanuit de docent naar de student toe ook helderder \cite{andrade2000using}.
+
+De eindapplicatie die de studenten moeten maken moeten voldoen aan een aantal basiscriteria voor het basiscijfer 6. Dan kunnen er extra punten verdient worden door extra features toe te voegen. Deze extra punten zijn relevant voor de  beroepspraktijk en beslaan ook een gedeelte van de competenties.
+
+\subsubsection{De beoordelingscriteria}
+De extra features zijn features die in de beroepspraktijk zeer relevant kunnen zijn. Het gaat om het maken van software voor meerdere platforms. Zo is het bijvoorbeeld op een iPhone gebruikelijk om een terugknop linksbovenin te hebben en bij Android zit deze onderaan.
+Hieronder volgen een aantal criteria die op zichzelf te onduidelijk waren:
+\begin{itemize}
+  \item Werkt op twee of meer platformen, waarbij platform specifieke code nodig is +0.5
+  \item Multi 'form factor' +0.5
+  \item Meerdere integraties +0.5
+\end{itemize}
+
+
+Deze drie criteria zijn nu zo omgeschreven dat ze verschillende gradaties:
+\begin{easylist}[itemize]
+  & Werkt op twee of meer platformen, waarbij platform specifieke code nodig is
+    && Geen platformspecifieke code of die uit Ionic (icons) +0
+    && Minor tweaks mits ook enigszins functioneel toepasselijk (`platform.is`) +0.25
+    && Complexere en toepasselijk +0.5
+  & Multi 'form factor'/responsive design +0.5
+    && Alleen meeschalen/aanpassen door gebruik Ionic componenten als bv. `grid` +0 (basis eis)
+    && Gebruiken minder toepasselijk vorm via media queries/JS zoals custom verschil icon (buiten Ionic) +0.25
+    && Ook toepasselijk/beter tonen of verbergen elementen in landscape/portrait of tablet, retina e.d. +0.25
+  & Meerdere integraties
+    && Geen extra integraties t.o.v. App-2 +0
+    && Simpel uitlezen, bv. simpele rest API/.json bestand + 0.25
+    && Toepasselijk gebruik Externe API of externe libraries (NB code werk in eigen (backend) API's wordt NIET beloond),  +0.5
+\end{easylist}
+
+\subsection{Zelfreflectie}
+We hebben deze nieuwe manier van beoordelen nog niet kunnen toepassen, dus daar kan ik nog niet op terugblikken. Maar wat we verwachten is dat het voor de student inzichtelijker wordt waar ze naartoe kunnen werken met hun applicatie. Het belangrijkste is dat de student helder moet hebben dat er verschillende niveau's zijn van begrip.
+
+De methode die gekozen is bij de rubric zoals wij deze hebben aangepast is een analytische rubric \cite[p.39]{syllabushan}. Deze methode maakt het heel transparant wat voor cijfer eruit rolt, maar creëert ook wel een idee van een afvinklijst. Wat misschien precies tegen het doel van deze exercitie indruist.
+
+Wat opvalt is dat er een grote samenhang dient te zijn tussen de beroepspraktijk, de toetsen en de lesstof, zoals dat ook het geval is bij het onderdeel ontwerpen dat

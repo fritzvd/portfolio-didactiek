@@ -4,8 +4,10 @@
 \usepackage[dutch]{babel}
 \usepackage{hyperref}
 \usepackage{enumitem}
+% \usepackage{graphicx}
 \usepackage{pdfpages}
 \usepackage[titletoc]{appendix}
+\usepackage[ampersand]{easylist}
 
 \topmargin=-0.45in
 \evensidemargin=0in
@@ -19,13 +21,21 @@
 \bibliographystyle{apacite}
 
 
+% \begin{titlepage}
+
 \title{Portfolio Didactiek}
-\author{Fritz van Deventer}
+\author{Fritz van Deventer\\ Begeleider: Lia de Bruyn}
+% {Begeleider: Lia de Bruyn}
 \date{\today}
- 
+
+
+% \end{titlepage}
+
+
 \begin{document}
  
 \maketitle
+
 
 \begin{quote}
   "Maar de boeken spraken met de stem van leraren, of de leraren spraken met de stem van boeken, dat was niet altijd duidelijk. Ze leerden me vaardigheden, maar gaven geen antwoorden."
@@ -34,7 +44,11 @@
   \end{flushright}
 \end{quote}
 
+
+\clearpage
+
 \tableofcontents
+\clearpage
 \input{document/inleiding}
 \input{document/didactiek}
 \input{document/begeleiden}
@@ -50,9 +64,6 @@
 \input{document/bijlage/lesdemo}
 \input{document/bijlage/lesbezoek}
 \input{document/bijlage/lesbezoekcollega}
-
-\input{document/bijlage/groepsbegeleiding}
-\input{document/bijlage/individuelebegeleiding}
 
 \input{document/bijlage/vragenlijsten}
 
